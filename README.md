@@ -1,3 +1,3 @@
 # ECE150
 
-These will just be a bunch of codes from term 1 coding
+A bunch of codes from my first term learning how to code.
